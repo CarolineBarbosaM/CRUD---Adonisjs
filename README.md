@@ -33,9 +33,9 @@ npm install
 DB_CONNECTION=mysql
 DB_HOST=localhost
 DB_PORT=3306
-DB_USER=user_teste
-DB_PASSWORD=0102030405
-DB_DATABASE=teste_db
+DB_USER=root
+DB_PASSWORD=11111111
+DB_DATABASE=teste
 ```
 
 ### 4 -  Migrations
